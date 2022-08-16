@@ -1,5 +1,5 @@
 const data = {
-    prodcuts: [
+    products: [
         {name: "Tenere 700",
         slug:  " tenere 700",
         category: "ADV Bikes",
@@ -33,6 +33,43 @@ const data = {
         brand: "BMW",
         rating: 4.6,
         numReviews: 15,
+        description: "great ADV",
+        },
+
+
+        {name: "KLX 650",
+        slug:  " klx ",
+        category: "ADV Bikes",
+        image: "/images/kawa1.jpg",
+        price: 8000,
+        countInStock: 3,
+        brand: "Kawasaki",
+        rating: 4.4,
+        numReviews: 9,
+        description: "great ADV",
+        },
+
+        {name: "Multistada 950",
+        slug:  " multistrada ",
+        category: "ADV Bikes",
+        image: "/images/ducatti1.jpg",
+        price: 16000,
+        countInStock: 1,
+        brand: "Ducatti",
+        rating: 4.6,
+        numReviews: 3,
+        description: "great ADV",
+        },
+
+        {name: "Tiger 660",
+        slug:  " Tiger ",
+        category: "ADV Bikes",
+        image: "/images/tiger1.jpg",
+        price: 13000,
+        countInStock: 3,
+        brand: "Triumph",
+        rating: 4.5,
+        numReviews: 3,
         description: "great ADV",
         },
     ]
